@@ -1,0 +1,7 @@
+C:\Users\Dixon\source\repos\MathOperatorConsoleApp\MathOperatorConsoleApp\bin\Debug\MathOperatorConsoleApp.exe.config
+C:\Users\Dixon\source\repos\MathOperatorConsoleApp\MathOperatorConsoleApp\bin\Debug\MathOperatorConsoleApp.exe
+C:\Users\Dixon\source\repos\MathOperatorConsoleApp\MathOperatorConsoleApp\bin\Debug\MathOperatorConsoleApp.pdb
+C:\Users\Dixon\source\repos\MathOperatorConsoleApp\MathOperatorConsoleApp\obj\Debug\MathOperatorConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\source\repos\MathOperatorConsoleApp\MathOperatorConsoleApp\obj\Debug\MathOperatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\source\repos\MathOperatorConsoleApp\MathOperatorConsoleApp\obj\Debug\MathOperatorConsoleApp.exe
+C:\Users\Dixon\source\repos\MathOperatorConsoleApp\MathOperatorConsoleApp\obj\Debug\MathOperatorConsoleApp.pdb
