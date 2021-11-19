@@ -1,0 +1,7 @@
+C:\Users\Dixon\source\repos\AnonymousIncomeComparisonApp\AnonymousIncomeComparisonApp\bin\Debug\AnonymousIncomeComparisonApp.exe.config
+C:\Users\Dixon\source\repos\AnonymousIncomeComparisonApp\AnonymousIncomeComparisonApp\bin\Debug\AnonymousIncomeComparisonApp.exe
+C:\Users\Dixon\source\repos\AnonymousIncomeComparisonApp\AnonymousIncomeComparisonApp\bin\Debug\AnonymousIncomeComparisonApp.pdb
+C:\Users\Dixon\source\repos\AnonymousIncomeComparisonApp\AnonymousIncomeComparisonApp\obj\Debug\AnonymousIncomeComparisonApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\source\repos\AnonymousIncomeComparisonApp\AnonymousIncomeComparisonApp\obj\Debug\AnonymousIncomeComparisonApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\source\repos\AnonymousIncomeComparisonApp\AnonymousIncomeComparisonApp\obj\Debug\AnonymousIncomeComparisonApp.exe
+C:\Users\Dixon\source\repos\AnonymousIncomeComparisonApp\AnonymousIncomeComparisonApp\obj\Debug\AnonymousIncomeComparisonApp.pdb
