@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CarInsuranseApprovalApp\CarInsuranseApprovalApp\bin\Debug\CarInsuranseApprovalApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CarInsuranseApprovalApp\CarInsuranseApprovalApp\bin\Debug\CarInsuranseApprovalApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CarInsuranseApprovalApp\CarInsuranseApprovalApp\bin\Debug\CarInsuranseApprovalApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CarInsuranseApprovalApp\CarInsuranseApprovalApp\obj\Debug\CarInsuranseApprovalApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CarInsuranseApprovalApp\CarInsuranseApprovalApp\obj\Debug\CarInsuranseApprovalApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CarInsuranseApprovalApp\CarInsuranseApprovalApp\obj\Debug\CarInsuranseApprovalApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CarInsuranseApprovalApp\CarInsuranseApprovalApp\obj\Debug\CarInsuranseApprovalApp.pdb
