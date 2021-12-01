@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ArrayAndListsApp\ArrayAndListsApp\bin\Debug\ArrayAndListsApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ArrayAndListsApp\ArrayAndListsApp\bin\Debug\ArrayAndListsApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ArrayAndListsApp\ArrayAndListsApp\bin\Debug\ArrayAndListsApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ArrayAndListsApp\ArrayAndListsApp\obj\Debug\ArrayAndListsApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ArrayAndListsApp\ArrayAndListsApp\obj\Debug\ArrayAndListsApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ArrayAndListsApp\ArrayAndListsApp\obj\Debug\ArrayAndListsApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ArrayAndListsApp\ArrayAndListsApp\obj\Debug\ArrayAndListsApp.pdb
