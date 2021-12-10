@@ -1,7 +1,0 @@
-C:\Users\Dixon\Desktop\Basic_C#_Programs\IterationApp\IterationApp\bin\Debug\IterationApp.exe.config
-C:\Users\Dixon\Desktop\Basic_C#_Programs\IterationApp\IterationApp\bin\Debug\IterationApp.exe
-C:\Users\Dixon\Desktop\Basic_C#_Programs\IterationApp\IterationApp\bin\Debug\IterationApp.pdb
-C:\Users\Dixon\Desktop\Basic_C#_Programs\IterationApp\IterationApp\obj\Debug\IterationApp.csproj.AssemblyReference.cache
-C:\Users\Dixon\Desktop\Basic_C#_Programs\IterationApp\IterationApp\obj\Debug\IterationApp.csproj.CoreCompileInputs.cache
-C:\Users\Dixon\Desktop\Basic_C#_Programs\IterationApp\IterationApp\obj\Debug\IterationApp.exe
-C:\Users\Dixon\Desktop\Basic_C#_Programs\IterationApp\IterationApp\obj\Debug\IterationApp.pdb
