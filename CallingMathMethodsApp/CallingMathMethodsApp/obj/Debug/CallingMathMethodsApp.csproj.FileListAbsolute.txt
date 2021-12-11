@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CallingMathMethodsApp\CallingMathMethodsApp\obj\Debug\CallingMathMethodsApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CallingMathMethodsApp\CallingMathMethodsApp\obj\Debug\CallingMathMethodsApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CallingMathMethodsApp\CallingMathMethodsApp\bin\Debug\CallingMathMethodsApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CallingMathMethodsApp\CallingMathMethodsApp\bin\Debug\CallingMathMethodsApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CallingMathMethodsApp\CallingMathMethodsApp\bin\Debug\CallingMathMethodsApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CallingMathMethodsApp\CallingMathMethodsApp\obj\Debug\CallingMathMethodsApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\CallingMathMethodsApp\CallingMathMethodsApp\obj\Debug\CallingMathMethodsApp.pdb
