@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.pdb
