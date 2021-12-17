@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\AbstractClassApp\AbstractClassApp\bin\Debug\AbstractClassApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\AbstractClassApp\AbstractClassApp\bin\Debug\AbstractClassApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\AbstractClassApp\AbstractClassApp\bin\Debug\AbstractClassApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\AbstractClassApp\AbstractClassApp\obj\Debug\AbstractClassApp.pdb
