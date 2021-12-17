@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MethodsAndObjectsApp\MethodsAndObjectsApp\bin\Debug\MethodsAndObjectsApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MethodsAndObjectsApp\MethodsAndObjectsApp\bin\Debug\MethodsAndObjectsApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MethodsAndObjectsApp\MethodsAndObjectsApp\bin\Debug\MethodsAndObjectsApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MethodsAndObjectsApp\MethodsAndObjectsApp\obj\Debug\MethodsAndObjectsApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MethodsAndObjectsApp\MethodsAndObjectsApp\obj\Debug\MethodsAndObjectsApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MethodsAndObjectsApp\MethodsAndObjectsApp\obj\Debug\MethodsAndObjectsApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\MethodsAndObjectsApp\MethodsAndObjectsApp\obj\Debug\MethodsAndObjectsApp.pdb
