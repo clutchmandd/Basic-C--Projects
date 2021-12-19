@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\EmployeeComparisonApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\EmployeeComparisonApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EmployeeComparisonApp\EmployeeComparisonApp\bin\Debug\EmployeeComparisonApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EmployeeComparisonApp\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.pdb
