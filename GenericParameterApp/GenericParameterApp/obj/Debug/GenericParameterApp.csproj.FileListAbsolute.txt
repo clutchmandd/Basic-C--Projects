@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\GenericParameterApp\GenericParameterApp\bin\Debug\GenericParameterApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\GenericParameterApp\GenericParameterApp\bin\Debug\GenericParameterApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\GenericParameterApp\GenericParameterApp\bin\Debug\GenericParameterApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\GenericParameterApp\GenericParameterApp\obj\Debug\GenericParameterApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\GenericParameterApp\GenericParameterApp\obj\Debug\GenericParameterApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\GenericParameterApp\GenericParameterApp\obj\Debug\GenericParameterApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\GenericParameterApp\GenericParameterApp\obj\Debug\GenericParameterApp.pdb
