@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\LambdaExpressionApp\LambdaExpressionApp\bin\Debug\LambdaExpressionApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\LambdaExpressionApp\LambdaExpressionApp\bin\Debug\LambdaExpressionApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\LambdaExpressionApp\LambdaExpressionApp\bin\Debug\LambdaExpressionApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\LambdaExpressionApp\LambdaExpressionApp\obj\Debug\LambdaExpressionApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\LambdaExpressionApp\LambdaExpressionApp\obj\Debug\LambdaExpressionApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\LambdaExpressionApp\LambdaExpressionApp\obj\Debug\LambdaExpressionApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\LambdaExpressionApp\LambdaExpressionApp\obj\Debug\LambdaExpressionApp.pdb
