@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EnumsApp\EnumsApp\bin\Debug\EnumsApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EnumsApp\EnumsApp\bin\Debug\EnumsApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EnumsApp\EnumsApp\bin\Debug\EnumsApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EnumsApp\EnumsApp\obj\Debug\EnumsApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EnumsApp\EnumsApp\obj\Debug\EnumsApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EnumsApp\EnumsApp\obj\Debug\EnumsApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\EnumsApp\EnumsApp\obj\Debug\EnumsApp.pdb
