@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ConstVariableApp\ConstVariableApp\bin\Debug\ConstVariableApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ConstVariableApp\ConstVariableApp\bin\Debug\ConstVariableApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ConstVariableApp\ConstVariableApp\bin\Debug\ConstVariableApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ConstVariableApp\ConstVariableApp\obj\Debug\ConstVariableApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ConstVariableApp\ConstVariableApp\obj\Debug\ConstVariableApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ConstVariableApp\ConstVariableApp\obj\Debug\ConstVariableApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\ConstVariableApp\ConstVariableApp\obj\Debug\ConstVariableApp.pdb
