@@ -1,0 +1,7 @@
+C:\Users\Dixon\Desktop\Basic_C#_Programs\DateTimeApp\DateTimeApp\bin\Debug\DateTimeApp.exe.config
+C:\Users\Dixon\Desktop\Basic_C#_Programs\DateTimeApp\DateTimeApp\bin\Debug\DateTimeApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\DateTimeApp\DateTimeApp\bin\Debug\DateTimeApp.pdb
+C:\Users\Dixon\Desktop\Basic_C#_Programs\DateTimeApp\DateTimeApp\obj\Debug\DateTimeApp.csproj.AssemblyReference.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\DateTimeApp\DateTimeApp\obj\Debug\DateTimeApp.csproj.CoreCompileInputs.cache
+C:\Users\Dixon\Desktop\Basic_C#_Programs\DateTimeApp\DateTimeApp\obj\Debug\DateTimeApp.exe
+C:\Users\Dixon\Desktop\Basic_C#_Programs\DateTimeApp\DateTimeApp\obj\Debug\DateTimeApp.pdb
