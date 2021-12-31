@@ -1,5 +1,5 @@
 # C-Sharp Projects
-These are some small projects I made using C-Sharp and the .NET Framework.
+These are some small projects I made using C-Sharp and the .NET Framework. There are several other console and web apps in this folder besides the ones listed below. Feel free to browse around.
 ## Projects
 [Car Insurance App](https://github.com/clutchmandd/C-Sharp-Projects/tree/main/CarInsurance)
 <br>[DateTime App](https://github.com/clutchmandd/C-Sharp-Projects/tree/main/DateTimeApp)
